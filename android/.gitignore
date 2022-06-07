@@ -1,3 +1,4 @@
+android/app/src/main/AndroidManifest.xml
 gradle-wrapper.jar
 /.gradle
 /captures/
